@@ -1,0 +1,141 @@
+documentclass(article)
+
+\usepackage graphics) Required for fase
+
+\documentclass[13p](article)
+
+\usepackage[margin=]in] (geometry)
+
+\usepackage{graphics)
+
+\usepackage{tabularx)
+
+\usepackage(titlesec)
+
+9 \usepackage(parsk1p)
+
+10 \usepackage[fancyhdr)
+
+11
+
+12 Title formatting
+
+13 \titleformat{\section}{\large btsertes}{}{Rem){}[\titlerule)
+
+14
+
+15 pagestyle{fancy)
+
+16 fancyhf()
+
+17 \rfoot[\thepage)
+
+18
+
+19 \begin{document.)
+
+20
+
+21 HEADER WITH PHOTO
+
+22\begin{mtntpage) (6.7\textwidth
+
+Huge textbf (Ankht Kar) [fipt] 23
+
+normalsize 24
+
+OpenAL Headquarters \\ 25
+
+1234 Innovation Drive 26
+
+27 San Francisco, CA 941101
+
+28 Phone: 786489528511
+
+29 Email: ankhikar13@gmail.com
+
+30 Vendatipage]
+
+31 \hfill
+
+32- \begin{minipage)(9.25\textwidth)
+
+31 includegraphics[width-Linewidth)(Ing-10g)
+
+34 \end{st1page)
+
+35
+
+36 vspace(1)
+
+37
+
+38 EXICATION TABLE
+
+30-section (Degrees and Education)
+
+40- \begin{tabularx){\textwidth) (XXX)
+
+41 httne
+
+42 testof(Degree) & testofInstitution) & \textbf{Year]\\
+
+43 \hitine
+
+44 B.Sc. to Computer Science & nakaut University & 2624
+
+45 \hline
+
+46 B.sc. in gyber security & Institute of Technology & 2825 11
+
+47 \hline
+
+48 B.sc cybersecurity & Institute of technology & 2025 11
+
+49 httne
+
+50 \end{tabulars)
+
+51
+
+52 AWARDS
+
+53\section (Awards and Achievements)
+
+54 \beginittentze)
+
+55 Tten Wirner Globat Al Research Award (2922)
+
+56
+
+Liten Best Paper Neural Networks Conference (2021)
+
+57 Liten AT Ethics Fellow International. Al Forum (2929)
+
+59
+
+66 SKILLS
+
+61 \section (Languages, Computer, and Other Skills)
+
+62 \textbf{Languages: English (native), French (basic)
+
+63 testof (Computer Skills:) Python, C, SQL, LaTeX, TensorFlow,
+
+Git, Bash
+
+64 \textbf{Other Skills:) Public speaking, Research writing
+
+45
+
+06 INTERESTS
+
+Critical thinking
+
+67-section (Activities and Interests (Optional))
+
+68 Reading sct-11 novels, Al ethics debates, virtual chess,
+
+running
+
+Reply
